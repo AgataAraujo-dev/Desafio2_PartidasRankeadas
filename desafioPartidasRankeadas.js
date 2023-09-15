@@ -24,8 +24,4 @@ if (saldoVitorias <= 10){
     nivelheroi = "Imortal"
 }
 
-function main (){
-    saldoRankeadas (200,100)
-}
-
 console.log( "O Herói " + nomeheroi + " tem o saldo de " + saldoVitorias + " e está no nível " + nivelheroi)
