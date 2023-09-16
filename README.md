@@ -52,11 +52,11 @@ Ao final deve se exibir uma mensagem:
 
 O código final foi:
 
-![image](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/b260fe83-a9ce-4b15-a814-672b288a9b0f)
+![desafio2js](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/7e83daff-07e2-4f84-b0d9-9fd94a0e7039)
 
 E o resultado seguiu o esperado:
 
-![image](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/603fe786-304e-4096-a61e-71ccc39a1e74)
+![desafio2result](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/15c0c923-a635-4aa2-8c95-5eb341ccc9b0)
 
 
 ## Tecnologias Utilizadas
@@ -120,9 +120,9 @@ console.log( "O Herói " + nomeheroi + " tem o saldo de " + saldoVitorias + " e 
 Deixarei abaixo o código do mesmo desafio desenvolvido utilizando Python, ao contrário do anterior desta vez tentei desenvolver desde o início sem usar o código em JavaScript como base, assim pude utilizar outras maneiras de chegar ao mesmo resultado, porém que em uma aplicação real seria de fácil manutenção.
 O código final foi:
 
-![image](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/77ebfe31-5530-4abc-b2cd-689a46e78231)
+![desafio2py](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/504ccb13-d534-4bf9-8c23-b77a7540fa20)
 
 E o resultado seguiu o esperado:
 
-![image](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/603fe786-304e-4096-a61e-71ccc39a1e74)
+![desafio2result](https://github.com/AgataAraujo-dev/Desafio2_PartidasRankeadas/assets/139137656/15c0c923-a635-4aa2-8c95-5eb341ccc9b0)
 
